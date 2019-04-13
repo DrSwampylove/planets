@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 codl and dry, but everything is my favorite color.
 The wolfman is coming to mars as well
 
 
 
+=======
+Cold and dry, but everything is my favorite color.
+The wolfman is coming to mars too!
+>>>>>>> 6464fdcfa8e25b43fe2df9cea321f09d0dba7942
